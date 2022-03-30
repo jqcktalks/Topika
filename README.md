@@ -10,7 +10,9 @@ Please note, the self-hosted version might not be as heavily updated as the main
 
 ## Self Hosting
 
-In order to self host the bot, you will need to create a `.env` file in your project, with the following information.
+In order to self host the bot, you will need to create an application on the [Discord Developer Portal](https://discord.com/developers/applications), making sure that all of the intents are enabled. 
+
+You will also need to create an `.env` file in your project, with the following information, or alternatively, see the provided `.env.example` file.
 
 `BOT_TOKEN` - This can be found in the [Discord Developer Portal](https://discord.com/developers/applications).
 
