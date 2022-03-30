@@ -23,4 +23,6 @@ You will also need to create an `.env` file in your project, with the following 
 
 `CLIENT_ID`- This can also be found on the [Discord Developer Portal](https://discord.com/developers/applications) and is usually a string of **18** numbers.
 
-`COLOR` - This can be either a word color, such as **PINK**, or a specific hexidecimal color.
+`COLOR` - This can be either a word color, such as **PINK**, or a specific hexidecimal color. If you do not specify a value, the default color will be white.
+
+`NAME` - This is the name that you want to be displayed, if you do not specify a value, the name 'Topika' will be used.
