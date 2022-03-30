@@ -3,7 +3,7 @@
 Welcome to Topika, a free & open-sourced Discord bot to help encourage community engagement. You can either choose
 to host the bot yourself, with the steps listed below, or use our hosted version, free of charge.
 
-If you like the bot, please leave a star on the repository to let other users know you enjoyed, and if you **really** liked it, feel free to buy  me a coffee, it helps a lot!
+If you like the bot, please leave a star on the repository to let other users know you enjoyed, and if you **really** liked it, feel free to [buy me a coffee (donate)](https://buymeacoff.ee/dawson), it helps a lot!
 
 Please note, the self-hosted version might not be as heavily updated as the main version, but you are free to make your own adjustments as you see fit, the code is very basic and easy to understand.
 
