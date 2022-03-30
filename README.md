@@ -26,3 +26,13 @@ You will also need to create an `.env` file in your project, with the following 
 `COLOR` - This can be either a word color, such as **PINK**, or a specific hexidecimal color. If you do not specify a value, the default color will be white.
 
 `NAME` - This is the name that you want to be displayed, if you do not specify a value, the name 'Topika' will be used.
+
+## Adding Topics
+
+If you wish to add your own topics to the list, this can be done on both the hosted & self-hosted versions, meaning this is open to everybody. Simply follow the instructions below.
+
+For those who choose to self host, you can simply edit the `data/topics.txt` file as you wish, adding all of your topics and then restart your bot.
+
+For those who choose to use the hosted version, please create a **pull request** with your topics in `data/topics.txt` and provided they are good enough, they will get added to the bot.
+
+Please note, all topics should be on **seperate** lines, or else this will cause issues and you will end up with multiple topics being outputted at once.

@@ -46,5 +46,8 @@
   "bugs": {
     "url": "https://github.com/jqcktalks/Topika/issues"
   },
-  "homepage": "https://github.com/jqcktalks/Topika#readme"
+  "homepage": "https://github.com/jqcktalks/Topika#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
 }
