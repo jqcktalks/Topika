@@ -1,0 +1,50 @@
+{
+  "name": "topika",
+  "version": "0.0.1",
+  "description": "A free, open-sourced Discord bot to help encourage community engagement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jqcktalks/Topika.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord",
+    "bot",
+    "topics",
+    "community",
+    "encouragement",
+    "engagement",
+    "discussion",
+    "discussions",
+    "code",
+    "javascript",
+    "open",
+    "source",
+    "open-source",
+    "open",
+    "src",
+    "open",
+    "self",
+    "hosted",
+    "self",
+    "hosted",
+    "communities",
+    "discord",
+    "chat",
+    "server",
+    "guild",
+    "user",
+    "members"
+  ],
+  "author": "JackD#0001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jqcktalks/Topika/issues"
+  },
+  "homepage": "https://github.com/jqcktalks/Topika#readme"
+}
