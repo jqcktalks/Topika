@@ -9,7 +9,9 @@ Please note, the self-hosted version might not be as heavily updated as the main
 
 ## Hosted
 
-To invite the hosted version of Topika, which **cannot** be customized, click [here](https://topika.gg/invite). If you are looking for a customized version, please see the instructions below about how to self-host your own version of the bot.
+To invite the hosted version of Topika, which **cannot** be customized, click [here](https://topika.gg/invite). 
+
+If you are looking for a customized version, please see the instructions below about how to self-host your own version of the bot.
 
 ## Self Hosted
 
