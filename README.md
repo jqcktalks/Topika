@@ -7,8 +7,11 @@ If you like the bot, please leave a star on the repository to let other users kn
 
 Please note, the self-hosted version might not be as heavily updated as the main version, but you are free to make your own adjustments as you see fit, the code is very basic and easy to understand.
 
+## Hosted
 
-## Self Hosting
+To invite the hosted version of Topika, which **cannot** be customized, click [here](https://topika.gg/invite). If you are looking for a customized version, please see the instructions below about how to self-host your own version of the bot.
+
+## Self Hosted
 
 In order to self host the bot, you will need to create an application on the [Discord Developer Portal](https://discord.com/developers/applications), making sure that all of the intents are enabled. 
 
