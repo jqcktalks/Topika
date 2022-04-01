@@ -3,4 +3,25 @@
 
 // https://buymeacoff.ee/dawson
 
-const { Client } = require('discord.js');
+///////////////////////////////////////////////////////////////////////////////////
+
+// --- Get environment variables --- //
+require('dotenv').config();
+
+// --- Run our bot --- //
+const { Client, Intents, Collection } = require("discord.js");
+
+const client = new Client({
+  intents: [
+    Intents.FLAGS.GUILD_MESSAGES,
+    Intents.FLAGS.GUILDS,
+    Intents.FLAGS.GUILD_VOICE_STATES,
+  ],
+});
+
+module.exports = client;
+client.commands = new Collection();
+
+// --- Start our handlers --- //
+require("./handlers/slash")(client);
+require("./handlers/events")(client);
